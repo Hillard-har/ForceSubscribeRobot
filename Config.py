@@ -11,10 +11,10 @@ class Config():
     SUDO_USERS.append(853393439)
     SUDO_USERS = list(set(SUDO_USERS))
   else:
-    BOT_TOKEN = "1251613397:AAG_akn6CXfKQt94wwEELNojcsA_dJ9LZfU"
-    DATABASE_URL = "mongodb+srv://Trackstudio:Trackstudio@cluster0.1mrcj.mongodb.net/psycopg2?retryWrites=true&w=majority"
-    APP_ID = "1520325"
-    API_HASH = "5448863e83be91ffd1bf0ab4ff3d42c6"
+    BOT_TOKEN = ""
+    DATABASE_URL = ""
+    APP_ID = ""
+    API_HASH = ""
     SUDO_USERS = list(set(int(x) for x in ''.split()))
     SUDO_USERS.append(853393439)
     SUDO_USERS = list(set(SUDO_USERS))
