@@ -3,11 +3,11 @@ from Config import Config
 
 
 plugins = dict(
-    root="plugins",
-    include=[
-        "help",
-        "forceSubscribe"
-    ]
+    root="plugins"#,
+    #include=[
+        #"help",
+        #"forceSubscribe"
+    #]
 )
 
 app = Client(
