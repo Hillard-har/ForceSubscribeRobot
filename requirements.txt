@@ -1,4 +1,5 @@
 TgCrypto
-https://github.com/Hillard-har/pyrogram/blob/main/pyrogram-asyncio-dev.zip?raw=true
+pyrogram 
+#https://github.com/Hillard-har/pyrogram/blob/main/pyrogram-asyncio-dev.zip?raw=true
 sqlalchemy
 psycopg2
