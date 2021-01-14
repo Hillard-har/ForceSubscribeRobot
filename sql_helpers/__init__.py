@@ -4,7 +4,7 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker, scoped_session
 from Config import Config
 from sqlalchemy.dialects import registry
-from mongodb.sqlalchemy import URL
+#from mongodb.sqlalchemy import URL
 
 registry.register('mongodb', 'mongodb.sqlalchemy', 'dialect')
 
